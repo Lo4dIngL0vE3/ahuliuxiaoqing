@@ -1,0 +1,2 @@
+main.m函数是图像加密主函数
+EncrypteDc.m是图像解密函数
